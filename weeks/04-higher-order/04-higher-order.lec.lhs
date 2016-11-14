@@ -266,7 +266,7 @@ which as we've seen, can be partially applied to either of their two
 arguments using an operator section.  In practice this is not that big
 of a restriction.  There is an art to deciding the order of arguments
 to a function to make partial applications of it as useful as
-possible: the arguments should be ordered from from "least to greatest
+possible: the arguments should be ordered from "least to greatest
 variation", that is, arguments which will often be the same should be
 listed first, and arguments which will often be different should come
 last.
